@@ -1,10 +1,7 @@
 # Fake-News-Classifier-using-bidirectional-LSTM
 
-Fake News Classifier is built using bidirectional LSTM for the unreliable Trump articles dataset from kaggle.
+I built this project as a proof-of-concept fake news classifier using a bidirectional LSTM model. The classifier is trained on an unreliable Trump articles dataset from Kaggle to detect potential fake news.
 
-Download the dataset from the following link :
+To get started, download the dataset from [Kaggle Fake News Competition](https://www.kaggle.com/c/fake-news/submit) and follow the instructions in the notebook.
 
-https://www.kaggle.com/c/fake-news/submit
-
-needs to be worked on a little more..
-will update it some time..
+This project is still a work in progress, and I plan to refine and update it further soon. Contributions, suggestions, or bug reports are welcome!
